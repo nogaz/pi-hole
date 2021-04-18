@@ -1,3 +1,4 @@
+Forked from HulkHaugen
 # Pi-Hole
 
 ### This hosts file is specifically designed to block Norwegian ads with Pi-Hole https://pi-hole.net/
